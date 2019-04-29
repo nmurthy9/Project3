@@ -2,3 +2,28 @@ body {
   /* background-color: */
   background-size: cover;
 }
+
+#red_button {
+  top:0;
+  left:0;
+  background-color:red;
+  border-radius:25px;
+}
+#blue_button {
+  top:0;
+  right:0;
+  background-color:blue;
+  border-radius:25px;
+}
+#yellow_button {
+  bottom:0;
+  right:0;
+  background-color:yellow;
+  border-radius:25px;
+}
+#green_button {
+  bottom:0;
+  left:0;
+  background-color:green;
+  border-radius:25px;
+}
